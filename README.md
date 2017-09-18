@@ -30,4 +30,4 @@
 
 `npm install --save-dev babel-core babel-loader babel-preset-react` 
 
-#### Fazer estrutura as paginas nescessarias.
+#### Fazer estrutura de paginas nescessarias.

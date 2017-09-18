@@ -1,33 +1,33 @@
-#Inicializando Projeto React do Zero
+# Inicializando Projeto React do Zero
 
-##Criar pasta:
+## Criar pasta:
 
 `mkdir comecando-com-react`
 
-##Entrar na pasta
+## Entrar na pasta
 
 `cd comecando-com-react`
 
-##Inicializar o npm
+## Inicializar o npm
 
 `npm init`
 
-##Instalar o React e o ReactDom
+## Instalar o React e o ReactDom
 
 `npm install --save react react-dom`
 
-##Instalar o WebPack
+## Instalar o WebPack
 
-###Globalmente
+### Globalmente
 
 `npm install webpack -g`
 
-###No projeto
+### No projeto
 
 `npm install --save-dev webpack`
 
-##Instalar pacotes do Babel
+## Instalar pacotes do Babel
 
 `npm install --save-dev babel-core babel-loader babel-preset-react` 
 
-####Fazer estrutura as paginas nescessarias.
+#### Fazer estrutura as paginas nescessarias.
